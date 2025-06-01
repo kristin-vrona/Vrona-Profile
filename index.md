@@ -1,23 +1,30 @@
 ---
 title: " "
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/genbanner (1).png
 ---
 
 # Welcome​
 
-<img src="https://github.com/ECON-691/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
+My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. My doctorate specializations include labor economics and applied econometrics.  
 
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
+**I am currently on the job market and open to interviews. I am also willing to discuss relocation.**
 
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
+My research often integrates labor economics with health economics and public policy analysis, using advanced econometric models to drive meaningful insights that are robust and pose minimal bias. I have also stepped outsideo of my core fields to conduct studies in game theory and strategic behavior and look forward to continuing to develop these skills.
 
-### Background
 
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
+### Field Background
 
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
+With over ten years of experience in big data management, I have a passion for extracting and compiling complex datasets, building narratives through data visualization, and applying econometric methods to assess real-world outcomes. My work often bridges the gap between raw data and actionable insight by automating visual reports and incorporating macroeconomic and institution-specific factors into predictive analyses.
 
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+My field experience includes supporting the effective allocation of $59 million in public funding and driving significant cost-saving initiatives in the private sector through process improvement and strategic analysis.
+
+
+
+### Outside of Work
+
+Outside of the workplace, you’ll often find me training in Brazilian Jiu-Jitsu, writing and performing music, or enjoying long walks. 
+
+
