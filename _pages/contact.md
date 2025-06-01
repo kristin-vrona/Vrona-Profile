@@ -1,7 +1,7 @@
 ---
 title: "Contact Information"
 header:
-  image: /assets/images/niubanner.png
+  image: /assets/images/genbanner.png
 classes: wide
 permalink: /contact/
 ---
@@ -12,7 +12,8 @@ permalink: /contact/
 ![image of email]({{site.baseurl}}/assets/images/EMAIL.png)
 
 
-### Current Location
+### Location
 
 Sycamore, IL 60178-1467 
+
 United States
