@@ -1,23 +1,44 @@
 ---
 title: "Teaching"
 header:
-  image: /assets/images/niubanner2.png
+  image: /assets/images/genbanner.png
 classes: wide
 permalink: /teaching/
 ---
 
-*These courses are fictional and were created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
+## Graduate 
 
-# Undergraduate Level
 
-### Northern Illinois University (Official Mascot)
-- SPRT 101: Introduction to Mascot Sciences (fall 2023, spring 2024)  
-    - Foundational course covering basic principles of crowd engagement, mascot safety, and the history of collegiate mascots.  
-- CHEER 250: Advanced Tail-Wagging and Paw-Shaking Techniques (spring 2024)  
-    - Hands-on (paws-on) workshop focusing on non-verbal communication methods for maximizing school spirit at sporting events.  
+#### ECON 660: Microeconomic Analysis I | Spring 2020, Fall 2018
 
-### Guest Lectures
- - MKTG 315: Sports Marketing and Branding (fall 2023)  
-    - Guest lecture on "The Mascot's Role in University Brand Identity"  
-- PSYC 220: Social Psychology (spring 2024)  
-    - Special seminar on "The Psychology of Human-Mascot Interactions in Large Crowds"   
+- Conducted weekly recitation sessions to reinforce course concepts for graduate students.
+
+
+#### ECON 750: Public Sector Economics I | Spring 2019
+
+
+## Undergraduate
+
+
+#### ECON 261: Principles of Macroeconomics | Summer 2022, Summer 2021, Spring 2021
+- Sole instructor responsible for course delivery and curriculum management.
+- Developed a curriculum structure that promoted active participation and encouraged open communication, tailored to a virtual learning environment during the COVID-19 pandemic.
+
+#### ECON 361: Intermediate Macroeconomics | Spring 2022
+
+#### ECON 390, 390A: Econometric Analysis & Applications | Fall 2021
+
+#### ECON 350: Government & Business |  Fall 2017, Fall 2019
+
+
+
+## Presentations & Talks
+
+#### ECON 700: Labor Economics I | Fall 2022
+- Presented "Labor Productivity & Health"
+#### ECON 798: Department of Economics Research Colloquium Seminar | Spring 2021
+- Presented PH.D. research paper, "Moderate to Severe Diagnosed Mental Disorders & Absenteeism" 
+#### ECON 750: Public Sector Economics I | Spring 2019
+- Discussion of modeling activity applied to healthcare setting.  
+#### ECON 798: Department of Economics Research Colloquium Seminar| Spring 2018
+ - Presented Master's thesis, "Mental Health & Labor Supply" 
