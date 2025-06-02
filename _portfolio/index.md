@@ -9,7 +9,7 @@ permalink: /portfolio/index.html
   
 <h2 id="working-papers">Working Papers</h2> 
   
-**Job Market Paper:**  K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"\\
+**Job Market Paper:**  K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"\
 [Download File]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)
 
 Keywords: mental health, labor economics, productivity, workplace policy
