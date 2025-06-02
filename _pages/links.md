@@ -6,7 +6,7 @@ classes: wide
 permalink: /links/
 ---
 
-# 
+ 
 - [NIU Department of Economics](https://www.niu.edu/clas/econ/)
 
 
