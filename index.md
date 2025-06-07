@@ -1,7 +1,6 @@
 ---
 title: " "
 header:
-  image: /assets/images/genbanner.png
 ---
 
 # Welcome​
