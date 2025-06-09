@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my Homepage & Professional Portfolio"
-header:
+title: 
+header:"Welcome to my Homepage & Professional Portfolio"
 ---
 
 # Welcome​
