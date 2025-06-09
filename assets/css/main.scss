@@ -2,12 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$primary-color: #cc9999 !default;
-$link-color: #92A58E !default;
+$primary-color: #92A58E !default;
+$link-color: #BF9BA1 !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
-<div style="background-color:#92a58e">
-Div content here</div>
+
 
 @charset "utf-8";
 
