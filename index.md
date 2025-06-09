@@ -1,6 +1,7 @@
 ---
-title: ""
-header: /assets/images/header.png
+title: " "
+header: 
+  image: /assets/images/header.png
 ---
 
 # Welcome​
