@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Kristin Vrona's Homepage & Professional Portfolio"
 header:
 ---
 
