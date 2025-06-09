@@ -1,6 +1,6 @@
 # Configs
 
-title: "Kristin Vrona"
+title: "Kristin M. Vrona, PhD"
 name: "Professional Porfolio for Kristin Vrona"
 email: 
 url: "https://kristin-vrona.github.io"
@@ -37,7 +37,7 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Kristin Vrona"
+  name   : "Kristin M. Vrona, PhD"
   avatar : "/assets/images/vronaHS.jpeg"
   bio    : "My name is Kristin Vrona. I recently completed my PhD in Economics with specializations in applied econometrics and labor economics."
   location: "DeKalb, Illinois"
