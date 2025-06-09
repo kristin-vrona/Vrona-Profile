@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 header:
-  image: /assets/images/genbanner.png
+  image: /assets/images/header.png
 classes: wide
 permalink: /teaching/
 ---
