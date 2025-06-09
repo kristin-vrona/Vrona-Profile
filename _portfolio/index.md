@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  image: /assets/images/genbanner.png
+  image: /assets/images/header.png
 permalink: /portfolio/index.html
 ---
 
