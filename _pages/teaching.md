@@ -6,10 +6,13 @@ classes: wide
 permalink: /teaching/
 ---
 
-## Graduate 
+### Undergraduate 
 
+#### ECON 261: Principles of Macroeconomics (Summer 2022, Summer 2021, Spring 2021, Spring 2019
+- Sole instructor responsible for course delivery and curriculum management.
+- Developed a curriculum structure that promoted active participation and encouraged open communication, tailored to a virtual learning environment during the COVID-19 pandemic.
 
-### ECON 660: Microeconomic Analysis I, Spring 2020, Fall 2018
+#### ECON 660: Microeconomic Analysis I, Spring 2020, Fall 2018
 
 - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
 
@@ -20,9 +23,6 @@ permalink: /teaching/
 ## Undergraduate
 
 
-### ECON 261: Principles of Macroeconomics, Summer 2022, Summer 2021, Spring 2021, Spring 2019
-- Sole instructor responsible for course delivery and curriculum management.
-- Developed a curriculum structure that promoted active participation and encouraged open communication, tailored to a virtual learning environment during the COVID-19 pandemic.
 
 
 
