@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Curriculum Vitae"
-    url: /CurriculumVitae/
+    url: /assets/docs/Vrona,K_CVweb.pdf
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
