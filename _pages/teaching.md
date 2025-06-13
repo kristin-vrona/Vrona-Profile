@@ -26,7 +26,6 @@ permalink: /teaching/
 
 
 ## Other Mentorship 
-
 ### Undergraduate Academic Advisor (Fall 2017 - Spring 2019)
 - Improved departmental success mapping documents, making it easier for students to plan several scenarios for their major/minor trajectory
 - Represented the Economics Department at university events, promoting the program and recruitment.
