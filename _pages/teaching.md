@@ -22,14 +22,14 @@ permalink: /teaching/
 
 
 #### ECON 660: Microeconomic Analysis I (Spring 2020, Fall 2018)
-      - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
+- Conducted weekly recitation sessions to reinforce course concepts for graduate students.
 
 
 ## Other Mentorship 
 
 ### Undergraduate Academic Advisor (Fall 2017 - Spring 2019)
-    - Improved departmental success mapping documents, making it easier for students to plan several scenarios for their major/minor         trajectory
-    - Represented the Economics Department at university events, promoting the program and recruitment.
+- Improved departmental success mapping documents, making it easier for students to plan several scenarios for their major/minor trajectory
+- Represented the Economics Department at university events, promoting the program and recruitment.
 
 
 
