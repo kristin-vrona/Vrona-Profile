@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Mentorship and Teaching"
 header:
   image: /assets/images/header.png
 classes: wide
