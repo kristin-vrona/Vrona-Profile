@@ -8,19 +8,20 @@ header:
 
 <img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/Vrona Kristin.jpeg?raw=true" width="35%" hspace="20" align="right">
 
-My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. My doctorate specializations include labor economics and applied econometrics.  
+My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. 
 
-**I am currently on the job market and open to interviews. I am also willing to discuss relocation.**
+**I am currently on the job market and open for inter interviews.**
 
-My research often integrates labor economics with health economics and public policy analysis, using advanced econometric models to drive meaningful insights that are robust and pose minimal bias. I have also stepped outsideo of my core fields to conduct studies in game theory and strategic behavior and look forward to continuing to develop these skills.
+My primary fields for my doctorate were applied econometrics and labor economics, but I also have research experience in health economics and strategy & game theory. 
+
+I am hoping to expand the breadth of my career to industry settings, whether using my robust experience with data science in an Analyst position or using my broader knowledge of economic theory and econometrics to conduct hypothesis testing that informs business outcomes to acheive big-picture goals under various pressures.
 
 
 ### Field Background
 
-With over ten years of experience in big data management, I have a passion for extracting and compiling complex datasets, building narratives through data visualization, and applying econometric methods to assess real-world outcomes. My work often bridges the gap between raw data and actionable insight by automating visual reports and incorporating macroeconomic and institution-specific factors into predictive analyses.
+With 9 years of experience in big data management, I have an aptitude for extracting and compiling complex datasets, building narratives through data visualization, and applying statistical methods to assess validity and reliability of data-driven models. 
 
 My field experience includes supporting the effective allocation of $59 million in public funding and driving significant cost-saving initiatives in the private sector through process improvement and strategic analysis.
-
 
 
 ### Outside of Work
