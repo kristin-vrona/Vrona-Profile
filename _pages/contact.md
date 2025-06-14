@@ -7,19 +7,17 @@ permalink: /contact/
 ---
 
 
-### Email  
-![image of email]({{site.baseurl}}/assets/images/EMAILNEW.png)
-
-
-
-
 ### Location
 
 Sycamore, IL 60178-1467 
 
 United States
 
+### Email  
+![image of email]({{site.baseurl}}/assets/images/EMAILNEW.png)
 
-*Please use the image above to get in touch. To enhance security for my professional email account, I have not provided a direct link to my email on this website.*
+
+
+###### *Please not that to enhance security for my professional email account, I have not provided a direct link to my email on this website.*
 
 
