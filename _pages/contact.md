@@ -1,7 +1,7 @@
 ---
 title: "Contact Information"
 header:
-  image: /assets/images/header.png
+  image: /assets/images/contact.png
 classes: wide
 permalink: /contact/
 ---
