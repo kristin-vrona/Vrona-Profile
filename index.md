@@ -1,7 +1,7 @@
 ---
 title: " "
 header: 
-  image: /assets/images/header.png
+  image: /assets/images/welcome.png
 ---
 
 # Welcome​
