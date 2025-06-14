@@ -1,7 +1,7 @@
 ---
 title: "Mentorship and Teaching"
 header:
-  image: /assets/images/header.png
+  image: /assets/images/teaching.png
 classes: wide
 permalink: /teaching/
 ---
