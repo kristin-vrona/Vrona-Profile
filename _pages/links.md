@@ -1,7 +1,7 @@
 ---
 title: "Links"
 header:
-  image: /assets/images/header.png
+  image: /assets/images/links.png
 classes: wide
 permalink: /links/
 ---
