@@ -24,6 +24,7 @@ permalink: /teaching/
 #### ECON 660: Microeconomic Analysis I (Spring 2020, Fall 2018)
 - Conducted weekly recitation sessions to reinforce course concepts for graduate students.
 
+
 ### Lectures
 
 #### ECON 700: Labor Economics I, Fall 2022
