@@ -14,7 +14,7 @@ Sycamore, IL 60178-1467
 United States
 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/EMAILNEW.png)
+![image of email]({{site.baseurl}}/assets/images/EMAILPICNEW.png)
 
 
 
