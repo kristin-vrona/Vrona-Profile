@@ -18,6 +18,6 @@ United States
 
 
 
-###### *Please not that to enhance security for my professional email account, I have not provided a direct link to my email on this website.*
+######### *The above is provided as an alternate in order to mitigate risks associated web scraping compared to active links.*
 
 
