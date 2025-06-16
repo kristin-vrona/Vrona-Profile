@@ -5,17 +5,19 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/gradpicbenny.jpeg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/gradpicbenny.jpeg?raw=true" width="50%" hspace="40" align="right">
 
-Welcome to my homepage. My name is Kristin Vrona and I am a recent PhD graduate in Economics from Northern Illinois University. 
+# Welcome to my homepage!
 
-My doctoral field specializations are econometrics and labor economics, though I have also gained deep knowledge in the realm of health economics through my reearch endeavours. I have also spent time in the fields of strategy & game theory, which I find particularly stimulating.
+I'm **Kristin Vrona**, a recent Ph.D. graduate in Economics from Northern Illinois University.
 
-**I am currently on the job market and available for interviews.** 
+My doctoral specializations are in **econometrics** and **labor economics**, and I’ve developed a strong foundation in **health economics** through extensive research projects. I'm also deeply interested in **strategy** and **game theory**.
 
-I am primarily seeking a fast-paced corporate environment to flex my learned expertise developed during my time in academia. I am open to discussing relocation for the right fit. 
+With over **ten years of experience in coding and data analysis**, I thrive in data science and process improvement—especially the aspects many find most frustrating, which I find intellectually rewarding.
 
+> **I am currently on the job market and available for interviews.**
 
+I’m primarily seeking a **fast-paced industry environment** where I can apply my expertise to solve complex problems and improve systems. I am also open to **relocation** for the right opportunity.
 
 ### Outside of Work
 
