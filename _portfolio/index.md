@@ -18,7 +18,11 @@ Keywords: mental health, labor economics, productivity, workplace policy
 
 
 K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on Absenteeism"
-[Download File]({{ site.baseurl }}/assets/docs/VRONA,K_EndogenousEmploymentPaper.pdf)
+Keywords: applied econometrics, sample selection, correlated random effects, mental health, labor supply
+
+[Download Executive Summary]({{ site.baseurl }}/assets/docs/EXECUTIVESUMMARY_EndogenousEmploymentPaper.pdf)
+
+[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_EndogenousEmploymentPaper.pdf)
 Keywords: applied econometrics, semi-parametric, sample selection, selection bias
 
 
