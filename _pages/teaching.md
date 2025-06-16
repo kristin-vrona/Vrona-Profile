@@ -34,7 +34,7 @@ permalink: /teaching/
 
 
 ## Mentorship and University Service
-#### Undergraduate Academic Advisor (Fall 2017 - Spring 2019)
+### Undergraduate Academic Advisor (Fall 2017 - Spring 2019)
 - Enhanced departmental planning tools to help students map major/minor scenarios more effectively.
 - Represented the Economics Department at campus events to support recruitment efforts.
 - Supported non-traditional students, including transfer students and student parents, by monitoring progress and facilitating accommodations.
