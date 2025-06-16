@@ -18,6 +18,6 @@ United States
 
 
 
-###### *The above photo aims to allow visitors to get in contact with me via email while mitigating spam and scraping risks associated with direct links. I apologize for the warped and ugly layout!*
+###### *The above photo aims to allow visitors to get in contact with me via email while mitigating spam and scraping risks associated with direct links. Apologies in advance for the warped and blurry layout!*
 
 
