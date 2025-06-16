@@ -7,7 +7,7 @@ header:
 
 <img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/gradpicbenny.jpeg?raw=true" width="55%" hspace="25" align="right">
 
-## Welcome to my homepage!
+## Welcome.
 
 I'm **Kristin Vrona**, a recent Ph.D. graduate in Economics from Northern Illinois University.
 
