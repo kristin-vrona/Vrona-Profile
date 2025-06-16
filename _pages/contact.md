@@ -18,6 +18,6 @@ United States
 
 
 
-###### *The above is provided as an alternate in order to mitigate risks associated web scraping compared to active links.*
+###### *The photois provided to allow visitors to get in contact with me via email while mitigating spam and scraping risks associated with direct links. I apologize for the warped and ugly layout!*
 
 
