@@ -9,7 +9,7 @@ header:
 
 ## Welcome.
 
-I'm **Kristin Vrona**, a recent Ph.D. graduate in Economics from Northern Illinois University.
+I'm Kristin Vrona, an economist and data analyst with over 9 years of applied experience. 
 
 > **I am currently on the job market and available for interviews.**
 
@@ -17,8 +17,7 @@ My doctoral specializations are in **econometrics** and **labor economics**, and
 
 With over **ten years of experience in coding and data analysis**, I thrive in data science and process improvement—especially the aspects many find most frustrating, which I find intellectually rewarding.
 
-
-I’m primarily seeking a **fast-paced industry environment** where I can apply my expertise to solve complex problems and improve systems. I am also open to **relocation** for the right opportunity.
+I am seeking a role that compliments my aptitude for the timely development of innovative solutions and pass these solutions on to improve efficiency within organizations whether it be through strong narrative and visualization presented to stakeholders, or training a colleague on each stage of the improved process.
 
 ### Outside of Work
 
