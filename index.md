@@ -5,7 +5,7 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/gradpicbenny.jpeg?raw=true" width="55%" hspace="25" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="55%" hspace="25" align="right">
 
 I'm Kristin Vrona, an economist and data analyst with over 9 years of applied experience. My doctoral field specializations are **econometrics and labor economics**. I also have a strong foundation in **health economic modeling and game theory**. 
 
