@@ -5,7 +5,7 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="40%" hspace="45" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="40%" hspace="60" align="right">
 
 
 
