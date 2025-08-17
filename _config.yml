@@ -1,13 +1,13 @@
 # Configs
 
-title: "Kristin Vrona, PhD"
+title: "Kristin M. Vrona"
 name: "Portfolio for Kristin Vrona"
 email: kristin.vrona@gmail.com
 url: "https://kristin-vrona.github.io"
 baseurl: "/Vrona-Profile"
 repository: "kristin-vrona/Vrona-Profile"
 header:
-  image: /assets/images/vronaHS.jpeg
+  image: /assets/images/Envrion headshot.jpeg
 
 include:
   - _pages
