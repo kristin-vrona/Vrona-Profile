@@ -11,17 +11,15 @@ permalink: /portfolio/index.html
   
 **Job Market Paper:**  
 K. Vrona, "Mental Diagnosis vs. Mental Distress: Reduced-Form Evidence on
-Absenteeism and Employment Selectionn"\
-[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,.pdf)\
-Keywords: mental health, labor economics, productivity, workplace policy
-
+Absenteeism and Employment Selection"\
+[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,Kristin_JobMarketPaper_web.pdf)\
+Keywords: mental health, labor supply, labor productivity, sample selection, correlated random effects
 
 
 
 K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on Absenteeism"\
-[Download Executive Summary]({{ site.baseurl }}/assets/docs/Executive Summary .pdf)\
-[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_EndogenousEmploymentPaper.pdf)\
-Keywords: applied econometrics, semi-parametric, sample selection, selection bias
+[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)\
+Keywords: health economics, mental health, physical health
 
 
 
