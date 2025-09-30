@@ -12,7 +12,7 @@ permalink: /portfolio/index.html
 **Job Market Paper:**  
 K. Vrona, "Mental Diagnosis vs. Mental Distress: Reduced-Form Evidence on
 Absenteeism and Employment Selection"\
-[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,Kristin_JobMarketPaper_web.pdf)\
+[Download Job Market Paper]({{ site.baseurl }}/assets/docs/Vrona,Kristin_JobMarketPaper_web.pdf)\
 Keywords: mental health, labor supply, labor productivity, sample selection, correlated random effects
 
 
