@@ -17,7 +17,7 @@ Keywords: mental health, labor supply, labor productivity, sample selection, cor
 
 
 
-K. Vrona, "Labor Supply Dynamics"\
+K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"\
 [Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)\
 Keywords: health economics, mental health, physical health
 
