@@ -17,7 +17,7 @@ Keywords: mental health, labor supply, labor productivity, sample selection, cor
 
 
 
-K. Vrona, "The Role of Individual Health Patterns and Endogenous Employment on Absenteeism"\
+K. Vrona, "Labor Supply Dynamics"\
 [Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)\
 Keywords: health economics, mental health, physical health
 
