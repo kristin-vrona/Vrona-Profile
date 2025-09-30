@@ -7,7 +7,7 @@ url: "https://kristin-vrona.github.io"
 baseurl: "/Vrona-Profile"
 repository: "kristin-vrona/Vrona-Profile"
 header:
-  image: /assets/images/Envrion headshot.jpeg
+  image: /assets/images/NIUheadshot.png
 
 include:
   - _pages
@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Kristin M. Vrona, PhD"
-  avatar : "/assets/images/vronaHS.jpeg"
+  avatar : "/assets/images/Envrion headshot.jpeg"
   bio    : "My name is Kristin Vrona. I recently completed my PhD in Economics with specializations in applied econometrics and labor economics."
   location: "DeKalb, Illinois"
   github : 
