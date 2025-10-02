@@ -18,9 +18,14 @@ Keywords: mental health, labor supply, labor productivity, sample selection, cor
 
 <h2 id="working-papers">Working Papers</h2> 
 
+K. Vrona, "Mental Health and Absenteeism: the Role of Fringe Benefits as Moderators"\
+Keywords: benefits, paid leave, wellness, mental health, contracts, insurance\
+*This paper examines how job factors, including fringe benefits, influence absenteeism. Preliminary findings suggest that while fringe benefits may increase absenteeism initially, they help mitigate the long-term impact of mental illness on absence, supporting the value of wellness-oriented benefits in enhancing productivity.*
+
+
 K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"\
 [Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)\
-Keywords: health economics, mental health, physical health
+Keywords: health economics, labor productivity, labor supply, absenteeism\
 
 
 <h2 id="publications">Publications</h2>
