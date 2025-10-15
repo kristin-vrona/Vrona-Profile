@@ -23,7 +23,7 @@ Keywords: benefits, paid leave, wellness, mental health, contracts, insurance\
 
 
 K. Vrona, "Labor Supply Dynamics Among Employed Workers with Mental Illness"\
-[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JMP.pdf)\
+[Download Working Paper]({{ site.baseurl }}/assets/docs/Vrona,K_LaborMarketDynamics_working.pdf)\
 Keywords: health economics, labor productivity, labor supply, absenteeism\
 
 
