@@ -9,24 +9,13 @@ header:
 
 
 
-
-
-
+Hello — I’m Kristin Vrona, a PhD economist (Northern Illinois University, August 2025) specializing in labor, health, and applied econometrics. I turn rigorous economic methods into actionable insight through transparent, reproducible research and production-ready data analysis. I’m comfortable leading end-to-end projects independently and collaborating in fast-paced teams across industry, public-resource management, and consulting. I bring 10+ years of applied data-science experience and a commitment to clear communication about methods, limitations, and policy implications.
 
 >
 > **I am currently on the job market and available for interviews.**
 >
 
-
-
-
-I have over 9 years of of applied experience in data analysis and experience working with AI.
-My professional background spans working with AI, financial forecasting and automation, and public fund management.
-
-
-
-
-
+Please reach out to me via LinkedIn or see my contact page. 
 
 
 
