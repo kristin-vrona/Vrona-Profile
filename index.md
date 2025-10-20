@@ -5,12 +5,10 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot.png?raw=true" width="25%" hspace="7" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot.png?raw=true" width="50%" hspace="12" align="right">
 
 
 
-I'm Kristin Vrona. I recently received a Ph.D. in Economics in the fields of labor and applied econometrics from Northern Illinois University. 
-My research has a strong foundation in health economics.
 
 
 
