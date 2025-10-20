@@ -14,10 +14,7 @@ permalink: /teaching/
 - *Instructor of Record*, responsible for course delivery and curriculum management.
 - Promoted innovative team-based learning (TBL) initiatives.
 - Average student evaluations: 4.75/5.0
-    - Highest: Knowledge and deftness of course contents
-    - Lowest: Prompt availability, flexibility in office hours and meetings 
-
-
+  
 ### Graduate 
 
 
