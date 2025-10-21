@@ -9,7 +9,7 @@ header:
 
 ---
 
-## Kristin Vrona
+### Kristin Vrona
 
 PhD Economist: Labor, Health, Econometrics
 
