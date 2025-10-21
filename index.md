@@ -10,7 +10,7 @@ header:
 
 # Kristin Vrona
 
-PhD Economist | Labor, Health, Econometrics
+PhD Economist: Labor, Health, Econometrics
 
 **Seeking opportunities in Labor Economics, Health Economics, and Applied Data Science.**
 
