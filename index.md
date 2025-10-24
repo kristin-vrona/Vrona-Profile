@@ -5,7 +5,7 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/VronaKNIU2.jpg?raw=true" width="60%" hspace="20pt" align="right">
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/VronaKNIU2.jpg?raw=true" width="60%" hspace="40pt" align="right">
 
 ---
 
