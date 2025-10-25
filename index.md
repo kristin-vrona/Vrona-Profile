@@ -5,9 +5,6 @@ header:
 ---
 
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/VronaKNIU2.jpg?raw=true" width="60%" hspace="20pt">
-
-
 ---
 
 ### Kristin Vrona
@@ -17,6 +14,10 @@ PhD Economist: Labor, Health, Econometrics
 **Seeking opportunities in Labor Economics, Health Economics, and Applied Data Science.**
 
 ---
+
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/VronaKNIU2.jpg?raw=true" width="60%" hspace="20pt">
+
+
 
 ### About Me
 
