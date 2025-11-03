@@ -3,7 +3,7 @@ title: " "
 header: 
   image: /assets/images/welcome.png
 ---
-
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot - Edited.png?raw=true" width="40%" hspace="5pt" align=right>
 
 ---
 
@@ -15,7 +15,7 @@ PhD Economist: Labor, Health, Econometrics
 
 ---
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot - Edited.png?raw=true" width="40%" hspace="5pt" align=right>
+
 
 
 
