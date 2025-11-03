@@ -15,7 +15,7 @@ PhD Economist: Labor, Health, Econometrics
 
 ---
 
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot.png?raw=true" width="60%" hspace="20pt" align=right>
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot - Edited.png?raw=true" width="40%" hspace="5pt" align=right>
 
 
 
