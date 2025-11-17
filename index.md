@@ -3,7 +3,7 @@ title: " "
 header: 
   image: /assets/images/welcome.png
 ---
-<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot - Edited.png?raw=true" width="40%" hspace="5pt" align=right>
+<img src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot - Edited.png?raw=true" width="40%" hspace="20pt" align=right>
 
 ---
 
