@@ -14,6 +14,12 @@ K. Vrona, "Diagnosis vs. Distress: Reduced-Form Evidence on Absenteeism and Empl
 [Download Job Market Paper]({{ site.baseurl }}/assets/docs/Vrona,K_JobMarketPaper_WEB.pdf)\
 Keywords: mental health, labor supply, labor productivity, sample selection, correlated random effects
 
+<h2 id="reports">Project Dashboards</h2> 
+
+[AI, Gig Economy & Labor Markets Analysis Project Dashboard]({{ https://github.com/kristin-vrona/AI-GIG-Labor-Market }})\
+
+[Gig Economy Impact Analysis Project Dashboard]({{ https://github.com/kristin-vrona/gig-economy-analysis }})\
+
 
 <h2 id="working-papers">Working Papers</h2> 
 
