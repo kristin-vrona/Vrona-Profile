@@ -16,9 +16,9 @@ Keywords: mental health, labor supply, labor productivity, sample selection, cor
 
 <h2 id="reports">Project Dashboards</h2> 
 
-[AI, Gig Economy & Labor Markets Analysis Project Dashboard]({{ https://github.com/kristin-vrona/AI-GIG-Labor-Market }})\
+[AI, Gig Economy & Labor Markets Analysis Project Dashboard](https://github.com/kristin-vrona/AI-GIG-Labor-Market)\
 
-[Gig Economy Impact Analysis Project Dashboard]({{ https://github.com/kristin-vrona/gig-economy-analysis }})\
+[Gig Economy Impact Analysis Project Dashboard](https://github.com/kristin-vrona/gig-economy-analysis)\
 
 
 <h2 id="working-papers">Working Papers</h2> 
