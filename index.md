@@ -3,7 +3,7 @@ title: " "
 header: 
   image: /assets/images/welcome.png
 ---
-![]src="https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot.png?raw=true" width="40%" padding-left:"20pt" align=right>
+![](https://github.com/kristin-vrona/Vrona-Profile/blob/master/assets/images/NIUheadshot.png?raw=true){: width="50% style="float:right; padding-left:20pt"
 ---
 
 ### Kristin Vrona
